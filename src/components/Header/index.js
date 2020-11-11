@@ -7,6 +7,7 @@ function Header() {
     <div className="Header row no-gutters my-4">
       <div className="col-12 text-center">
         <img src={logo} alt="youtube-logo" />
+        <h2>Let's search</h2>
       </div>
     </div>
   )
