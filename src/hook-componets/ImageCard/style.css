@@ -1,0 +1,15 @@
+.MediaCard {
+  display: flex;
+  margin-bottom: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.MediaCard:hover {
+  text-decoration: none;
+  color: black;
+}
+
+.MediaCard p {
+  font-size: 14px;
+}

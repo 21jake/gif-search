@@ -2,11 +2,12 @@ import React, { Component } from 'react';
 import axios from 'axios';
 import Header from './components/Header';
 import Search from './components/Search';
+import MediaCard from './components/MediaCard';
+import Loading from './components/Loading';
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import MediaCard from './components/MediaCard';
-import Loading from './components/Loading';
+
 
 class App extends Component {
   constructor(props) {
